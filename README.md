@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-End Data Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -576,3 +577,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 For questions or feedback, reach out on [GitHub](https://github.com/hoangsonww).
+=======
+# Enterprise-Lakehouse-Modernisation
+>>>>>>> 5fb4e91a9b572afba7c6bd68875cd5fbc1a6bdf5
